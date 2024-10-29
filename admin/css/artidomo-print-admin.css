@@ -1,0 +1,141 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.artidomo-admin-container h2.title {
+  background: #2d6082;
+  padding: 10px;
+  color: #f0f0f1;
+  border-radius: 5px;
+}
+
+.error {
+  color: #f00;
+}
+.success {
+  color: #060;
+}
+
+.artidomo-admin-container .form-table {
+  margin-left: 10px;
+}
+
+.artidomo-admin-container .form-table td.text-info {
+  padding: 0px !important;
+}
+
+.artidomo-admin-container .form-table select {
+  max-width: 350px;
+  width: 100%;
+}
+.artidomo-img {
+  background-color: #fff;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+.artidomo-img img {
+  width: 200px;
+}
+.artidomo-admin-container .table-view-list td.column-title strong,
+.artidomo-admin-container .table-view-list td.plugin-title strong {
+  display: inline;
+}
+.artidomo-admin-container .table-view-list .check-column {
+  padding: 8px 10px;
+}
+.artidomo-admin-container .shop-product .product-info-sec {
+  text-align: center;
+}
+.product-maping-table .map-product {
+  width: 80%;
+}
+.product-maping-table .shop-product {
+  width: 20%;
+}
+.ac-variations {
+  float: left;
+}
+.ac-variations p.description {
+  max-width: 350px;
+}
+.wp-core-ui #ac_add_variation {
+  margin-left: 20px;
+}
+.ac-added-variation-sec {
+  padding-left: 10px;
+}
+.ac-added-variation-sec ul li span {
+  padding-right: 30px;
+  vertical-align: middle;
+}
+.ac-added-variation-sec ul li span.var-remove {
+  background-color: red;
+  border-radius: 100%;
+  padding: 0;
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  color: #fff;
+  font-size: 26px;
+  line-height: 17px;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+}
+.ac-added-variation-sec ul li span label {
+  padding-right: 10px;
+  font-size: 14px;
+  font-weight: 600;
+}
+.artidomo-admin-container .form-table {
+  margin-left: 0px;
+}
+.ac-added-variation {
+  margin-bottom: 40px;
+}
+.ac-file-handling-wrap {
+  display: flex;
+}
+.ac-file-handling-wrap select#artidomo_file_handling {
+  margin-right: 15px;
+}
+.choose-variation-section-container {
+  position: relative;
+}
+.product-filter-loader {
+  background: #fff;
+  text-align: center;
+  height: 86%;
+  position: absolute;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  bottom: 0;
+  align-items: center;
+  z-index: 999;
+  opacity: 0.9;
+  border-radius: 5px;
+}
+.dont-show {
+  display: none !important;
+}
+.artidomo-main-length-div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 15px;
+  margin-top: 10px;
+}
+.map-product-table td {
+  vertical-align: top;
+}
+.artidomo-size-filter {
+  margin-top: 10px;
+}
+.artidomo-print-fulfilment_page_products_mapping_list
+  span.dashicons.dashicons-trash {
+  color: red;
+}
+.artidomo-print-fulfilment_page_products_mapping_list .author.column-author a {
+  margin-left: 5px;
+}

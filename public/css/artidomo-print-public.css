@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+  .ac-file-upload-sec {
+  	margin-bottom: 20px;
+  }
+ .ac-file-upload-sec input#ac_file_upload {
+    width: 15em;
+}

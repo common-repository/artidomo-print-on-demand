@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Print on-demand fulfillment\n"
+"POT-Creation-Date: 2022-02-28 14:38+0530\n"
+"PO-Revision-Date: 2022-02-28 14:40+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: plurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-artidomo-print-admin.php:433
+#: admin/partials/artidomo-api-settings.php:82
+msgid "Status"
+msgstr ""
+
+#: admin/class-artidomo-print-admin.php:436
+msgid "Full Filled"
+msgstr ""
+
+#: admin/class-artidomo-print-admin.php:440
+msgid "Cancelled"
+msgstr ""
+
+#: admin/class-artidomo-print-admin.php:444
+msgid "Billed"
+msgstr ""
+
+#: admin/class-artidomo-print-admin.php:462
+msgid "Item"
+msgstr ""
+
+#: admin/partials/artidomo-api-settings.php:75
+msgid "Artidomo Print Settings"
+msgstr ""
+
+#: admin/partials/artidomo-api-settings.php:78
+msgid "Artidomo API Key"
+msgstr ""
+
+#: admin/partials/artidomo-api-settings.php:94
+msgid "Secret key"
+msgstr ""
+
+#: admin/partials/artidomo-api-settings.php:98
+msgid "API key"
+msgstr ""
+
+#: admin/partials/artidomo-help-settings.php:14
+msgid "Help"
+msgstr ""
+
+#: admin/partials/artidomo-help-settings.php:17
+#, php-format
+msgid ""
+"Wenn Sie Hilfe benötigen schauen Sie bitte auf die Anleitungen auf dem "
+"Nextcloud-Server sowie die Videos auf <a href=\"%s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">%s</a>. Sie können auch eine Email an <a href=\"%s\">"
+"%s</a> senden."
+msgstr ""
+
+#: admin/partials/artidomo-help-settings.php:22
+#, php-format
+msgid ""
+"If you need help please have a look at our manual on nextcloud server as on "
+"our videos at <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">"
+"%s</a>. You can also send an email to <a href=\"%s\">%s</a>-"
+msgstr ""
+
+#: admin/partials/artidomo-help-settings.php:28
+msgid ""
+"<strong>Impressum:</strong></br>\n"
+"      Marina Scheubly</br>\n"
+"      artidomo</br>\n"
+"      Wittener Str. 75</br>\n"
+"      44789 Bochum</br>\n"
+"      Deutschland"
+msgstr ""
+
+#: admin/partials/artidomo-help-settings.php:38
+#, php-format
+msgid ""
+"<strong>Tel.</strong>: <a href=\"%s\">%s</a></br>\n"
+"      <strong>Fax</strong>: <a href=\"%s\">%s</a></br>\n"
+"      <strong>E-Mail</strong>: <a href=\"%s\">%s</a></br>"
+msgstr ""
+
+#: admin/partials/artidomo-help-settings.php:45
+msgid ""
+"Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: "
+"DE304587715"
+msgstr ""
+
+#: admin/partials/artidomo-help-settings.php:49
+#, php-format
+msgid ""
+"Plattform der EU-Kommission zur Online-Streitbeilegung: <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">%s</a>"
+msgstr ""
+
+#: admin/partials/artidomo-help-settings.php:53
+msgid ""
+"Wir sind zur Teilnahme an einem Streitbeilegungsverfahren vor einer "
+"Verbraucherschlichtungsstelle weder verpflichtet noch bereit."
+msgstr ""
+
+#: admin/partials/artidomo-help-settings.php:57
+msgid ""
+"Verantwortlicher i.S.d. § 18 Abs. 2 MStV:</br>\n"
+"      Marina Scheubly, Wittener Str. 75, 44789 Bochum"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:216
+msgid "neue Verknüpfung"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:223
+msgid "Wähle Dein Produkt"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:230
+msgid "Wähle Kategorie"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:233
+msgid "- wähle Kategorie -"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:242
+msgid "Choose category to filter products."
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:244
+msgid "Artidomo category"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:248
+msgid "- Choose artidomo product category -"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:258
+msgid "Choose Artidomo product category"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:263
+msgid "- Choose small length -"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:273
+msgid "Choose small length"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:277
+msgid "- Choose large length -"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:287
+msgid "Choose large length"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:294
+msgid "Map Products"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:297
+msgid "- Choose your product -"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:299
+msgid "#"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:302
+msgid "Choose your product which you want to link."
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:304
+msgid "Artidomo product"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:307
+msgid "- Choose Artidomo Product -"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:321
+msgid "Choose Artidomo product to link."
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:326
+msgid "Choose Variant"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:329
+msgid "- Choose Our Variant -"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:332
+msgid "Choose your product variant which you want to link."
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:334
+msgid "Artidomo variant"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:338
+msgid "- Choose Artidomo Variant -"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:351
+msgid "Choose Artidomo product variant to link with our product variation."
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:354
+msgid "Add"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:387
+msgid "Product Mapped Variations"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:423
+msgid "Choose Order Process"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:431
+msgid "File Handling Method"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:436
+msgid "Upload static method"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:439
+msgid "Upload manually after order"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:442
+msgid "Upload by end-user"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:453
+msgid "Choose file handling method."
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:457
+msgid "Fullfill at status"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:460
+msgid "Open"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:461
+msgid "Paid"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:462
+msgid "Manually"
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:464
+msgid "Choose product ordder fullfill status."
+msgstr ""
+
+#: admin/partials/artidomo-new-mapping-settings.php:494
+msgid "Save Link"
+msgstr ""
+
+#: admin/partials/artidomo-product-mapping-settings.php:49
+msgid "Products Mapping list"
+msgstr ""
+
+#: admin/partials/artidomo-product-mapping-settings.php:53
+#: admin/partials/artidomo-product-mapping-settings.php:141
+msgid "ID"
+msgstr ""
+
+#: admin/partials/artidomo-product-mapping-settings.php:54
+#: admin/partials/artidomo-product-mapping-settings.php:142
+msgid "Shop products"
+msgstr ""
+
+#: admin/partials/artidomo-product-mapping-settings.php:55
+#: admin/partials/artidomo-product-mapping-settings.php:143
+msgid "Artidomo products"
+msgstr ""
+
+#: admin/partials/artidomo-product-mapping-settings.php:56
+#: admin/partials/artidomo-product-mapping-settings.php:144
+msgid "Actions"
+msgstr ""
+
+#: admin/partials/artidomo-product-mapping-settings.php:99
+msgid "Product category : "
+msgstr ""
+
+#: admin/partials/artidomo-product-mapping-settings.php:101
+msgid "Product variation : "
+msgstr ""
+
+#: admin/partials/artidomo-product-mapping-settings.php:103
+msgid "Fullfill status at : "
+msgstr ""
+
+#: admin/partials/artidomo-product-mapping-settings.php:108
+msgid "Artidomo product category"
+msgstr ""
+
+#: admin/partials/artidomo-product-mapping-settings.php:113
+msgid "Artidomo product :"
+msgstr ""
+
+#: admin/partials/artidomo-product-mapping-settings.php:118
+msgid "File handling Method : "
+msgstr ""
+
+#: admin/partials/artidomo-product-mapping-settings.php:130
+msgid "No Artidomo product found!"
+msgstr ""
